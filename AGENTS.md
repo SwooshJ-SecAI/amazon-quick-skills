@@ -1,8 +1,8 @@
 # Skills Catalog
 
-A catalog of 17 reusable AI skills built with Amazon Quick. Each skill is a self-contained `SKILL.md` definition with structured workflows, triggers, and inputs. Every skill folder contains a `README.md` (overview) and the `SKILL.md` (full definition).
+A catalog of reusable AI skills built with Amazon Quick. Each skill is a self-contained `SKILL.md` definition with structured workflows, triggers, and inputs. Every skill folder contains a `README.md` (overview) and the `SKILL.md` (full definition).
 
-**Total skills:** 17
+**Total skills:** 15
 
 ---
 
@@ -15,13 +15,11 @@ A catalog of 17 reusable AI skills built with Amazon Quick. Each skill is a self
 | [vulnerability-report-summarizer](./vulnerability-report-summarizer/) | Transforms raw vulnerability scan output (Nessus, Qualys, OWASP ZAP) into executive-ready reports with CVSS scoring. |
 | [security-tool-agent-builder](./security-tool-agent-builder/) | Builds vendor-specific security tool SME agents with full knowledge bases (Arctic Wolf, SentinelOne, Splunk, and more). |
 
-## Compliance & ITSM
+## Compliance & Operations
 
 | Skill | Description |
 |:---|:---|
 | [compliance-automation](./compliance-automation/) | Generates draft compliance policies for SOC 2 Type I/II, ISO 27001, and HIPAA. Produces evidence checklists and gap analysis. |
-| [freshservice-ticket-creator](./freshservice-ticket-creator/) | Universal base skill for creating Freshservice tickets from agent findings and sending email notifications with recommended actions. |
-| [freshservice-ticket-pipeline](./freshservice-ticket-pipeline/) | Full Freshservice ITSM integration with five composable Python modules covering the complete API surface. |
 | [support-ticket-triager](./support-ticket-triager/) | Classifies support tickets by category, urgency, and complexity. Applies routing rules and flags escalation candidates. |
 
 ## Document & Content
