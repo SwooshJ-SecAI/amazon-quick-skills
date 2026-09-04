@@ -107,7 +107,7 @@ amazon-quick-skills/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajohnson/amazon-quick-skills.git
+   git clone https://github.com/SwooshJ-SecAI/amazon-quick-skills.git
    cd amazon-quick-skills
    ```
 2. Navigate to any skill directory for documentation
@@ -130,4 +130,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**Author:** Antonio Johnson | Security Engineer II / Enterprise AI Engineer
+**Author:** SwooshJ-SecAI | Security Engineer II / Enterprise AI Engineer
