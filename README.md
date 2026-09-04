@@ -2,10 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Skills](https://img.shields.io/badge/Skills-66+-purple?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-15-purple?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Amazon%20Quick-orange?style=flat-square)
 
-A catalog of 66+ custom skills authored for the Amazon Quick platform, spanning cybersecurity operations, compliance automation, AI agent engineering, content creation, and enterprise workflow automation.
+A catalog of custom skills authored for the Amazon Quick platform, spanning cybersecurity operations, compliance automation, AI agent engineering, content creation, and enterprise workflow automation.
 
 Built with [Amazon Quick](https://amazon.com/quick).
 
@@ -40,19 +40,13 @@ Skills transform ad-hoc agent conversations into reliable, auditable automation.
 | [vulnerability-report-summarizer](vulnerability-report-summarizer/) | Transforms raw scan output into executive-ready reports with CVSS scoring and MITRE ATT&CK mapping |
 | [security-tool-agent-builder](security-tool-agent-builder/) | Builds vendor-specific security tool SME agents with full knowledge bases |
 
-### Compliance and Audit
+### Compliance and Operations
 
 | Skill | Description |
 |-------|-------------|
 | [compliance-automation](compliance-automation/) | Generates SOC 2, ISO 27001, and HIPAA policies, evidence checklists, and gap analysis reports |
-
-### ITSM and Service Management
-
-| Skill | Description |
-|-------|-------------|
-| [freshservice-ticket-creator](freshservice-ticket-creator/) | Creates Freshservice tickets from agent findings with Outlook email notifications |
-| [freshservice-ticket-pipeline](freshservice-ticket-pipeline/) | Full Freshservice API integration: tickets, assets, agents, groups, change requests, problems, releases |
 | [support-ticket-triager](support-ticket-triager/) | Classifies tickets by category, urgency, and complexity; applies routing rules and flags escalations |
+| [onboarding-orchestrator](onboarding-orchestrator/) | Designs 30/60/90 day onboarding programs with buddy assignments and milestone tracking |
 
 ### AI Engineering and Skill Development
 
@@ -72,20 +66,12 @@ Skills transform ad-hoc agent conversations into reliable, auditable automation.
 | [eliminate-ai-writing-tropes](eliminate-ai-writing-tropes/) | Enforces concrete specificity and eliminates detectable AI writing patterns |
 | [business-case-builder](business-case-builder/) | Builds decision-ready business cases with cost/benefit analysis and risk assessment |
 
-### Onboarding and Operations
-
-| Skill | Description |
-|-------|-------------|
-| [onboarding-orchestrator](onboarding-orchestrator/) | Designs 30/60/90 day onboarding programs with buddy assignments and milestone tracking |
-
 ## Repository Structure
 
 ```
 amazon-quick-skills/
 |-- cicc-intelligence-refresh/
 |-- cicc-security-analyst/
-|-- freshservice-ticket-creator/
-|-- freshservice-ticket-pipeline/
 |-- compliance-automation/
 |-- vulnerability-report-summarizer/
 |-- security-tool-agent-builder/
