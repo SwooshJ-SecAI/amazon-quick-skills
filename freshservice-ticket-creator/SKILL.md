@@ -43,7 +43,7 @@ interface -- the ticket creation and notification pipeline is standardized.
 - Domain: example-company.freshservice.com
 - Auth: Basic Auth (API Key as username, "X" as password)
 - API Key: stored in freshservice_universal_base.py
-- Default requester: admin@example-company.com (Antonio Johnson)
+- Default requester: admin@example-company.com (SwooshJ-SecAI)
 
 ## Workflow
 
@@ -157,7 +157,7 @@ if notify:
 | subcategory        | str       | no       | --                             |
 | recommended_actions| list[str] | no       | []                             |
 | requester_email    | str       | no       | admin@example-company.com     |
-| requester_name     | str       | no       | Antonio Johnson                |
+| requester_name     | str       | no       | SwooshJ-SecAI                |
 | group_id           | int       | no       | --                             |
 | agent_id           | int       | no       | --                             |
 | ticket_type        | str       | no       | "Incident"                     |
