@@ -41,4 +41,4 @@ This project is licensed under the MIT License. See [LICENSE](../../LICENSE) for
 
 ---
 
-**Author:** Antonio Johnson | Security Engineer II / Enterprise AI Engineer
+**Author:** SwooshJ-SecAI | Security Engineer II / Enterprise AI Engineer
