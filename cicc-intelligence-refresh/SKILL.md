@@ -2,7 +2,7 @@
 name: cicc-intelligence-refresh
 display_name: CICC Intelligence Refresh
 description: "On-demand external cyber intelligence pipeline for Example Corp. Fetches live data from CISA KEV, NVD, EPSS, and 5 RSS attack landscape feeds, enriches and scores events against the Example Corp technology watchlist, and writes updated JSON data files. Activate when user says 'refresh intelligence', 'update cyber data', 'pull latest intel', 'CICC refresh', 'run the pipeline', or 'update KEV data'."
-icon: "🛡️"
+icon: "--"
 trigger: refresh intelligence cicc pipeline update pull latest cyber intel KEV EPSS NVD
 tools: [url_fetch, download_file, run_python, file_write, file_read, web_search]
 id: 7c89921e16114b51a3468cc40d3f1f81
