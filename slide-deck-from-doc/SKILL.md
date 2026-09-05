@@ -1,7 +1,7 @@
 ---
 name: slide-deck-from-doc
 display_name: Slide Deck from Document
-icon: "📊"
+icon: "--"
 description: "Convert any document (DOCX, PDF, or Markdown) into a professional PowerPoint presentation with smart layout selection and visual hierarchy. Use when asked to 'turn this into slides', 'make a deck from this doc', 'convert to presentation', 'document to powerpoint', 'create slides from this file', 'slide deck from this', 'present this as a deck', or any request to transform a written document into a slide presentation."
 created_date: "2026-06-15"
 last_updated: "2026-06-15"
