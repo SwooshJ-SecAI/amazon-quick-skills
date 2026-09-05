@@ -2,7 +2,7 @@
 name: cicc-security-analyst
 display_name: CICC Security Analyst
 description: "Conversational cyber intelligence analyst that answers stakeholder questions about security posture, vulnerabilities, threat landscape, and organizational risk. Activate when user asks 'what is our security posture', 'what affects our technology', 'morning standup brief', 'SITREP', 'CVE details', 'threat actors', 'EPSS analysis', 'CISA KEV compliance', 'generate a briefing', or any question about external cyber risk to Example Corp."
-icon: "🔍"
+icon: "--"
 trigger: security posture analyst briefing SITREP CVE vulnerability threat EPSS CISA KEV MITRE risk exposure standup
 tools: [file_read, run_python, file_write, open_in_session_tab, web_search, url_fetch]
 depends-on: [cicc-intelligence-refresh]
