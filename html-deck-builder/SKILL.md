@@ -1,7 +1,7 @@
 ---
 name: html-deck-builder
 display_name: HTML Deck Builder
-icon: "📊"
+icon: "--"
 description: "Build professional HTML slide presentations as single self-contained files with keyboard navigation, speaker notes, and progress tracking. Use when asked to 'build a presentation', 'create a slide deck', 'make slides', 'build a deck', 'presentation about X', 'create a slideshow', 'HTML slides for', 'make a deck for my talk', 'slide deck about', or any request to produce a browser-based HTML slideshow."
 created_date: "2026-07-17"
 last_updated: "2026-08-13"
