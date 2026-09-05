@@ -1,7 +1,7 @@
 ---
 name: document-comparison
 display_name: Document Comparison
-icon: "🔄"
+icon: "--"
 description: "Compare two documents side-by-side, highlighting differences and generating a structured change summary. Use when the user says 'compare these docs', 'what changed between versions', 'diff these files', 'document comparison', or 'show differences between [file A] and [file B]'."
 created_date: "2026-06-05"
 last_updated: "2026-06-05"
