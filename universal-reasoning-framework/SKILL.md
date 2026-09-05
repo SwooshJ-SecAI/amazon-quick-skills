@@ -2,7 +2,7 @@
 name: universal-reasoning-framework
 display_name: Universal Reasoning & Systems Framework
 description: "Activate for any request involving first-principles reasoning, concept deconstruction, hypothesis testing, evidence validation, system optimization, or converting validated knowledge into reusable frameworks. Use when the user asks to 'reason through', 'deconstruct', 'analyze from first principles', 'validate a hypothesis', 'systemize', or wants deep analytical reasoning about any concept."
-icon: "🔬"
+icon: "--"
 trigger: reason first principles deconstruct analyze concept systemize invalidate hypothesis validate evidence
 inputs:
   - name: topic
