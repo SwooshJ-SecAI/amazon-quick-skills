@@ -1,7 +1,7 @@
 ---
 name: business-case-builder
 display_name: Business Case Builder
-icon: "📋"
+icon: "--"
 description: "Build a decision-ready business case document for any initiative. Combines stakeholder inputs with market research to produce executive-ready deliverables including problem statement, solution options, cost/benefit analysis, risk assessment, and recommendation. Use when asked to 'build a business case', 'justify this project', 'ROI analysis for', 'make the case for', or 'get approval for'."
 created_date: "2026-06-04"
 last_updated: "2026-06-04"
