@@ -2,7 +2,7 @@
 name: learning-agents-framework
 display_name: Learning Agents Framework V2
 description: "Activate when the user wants to learn a subject, build a study package, create learning materials, study for a certification, generate notes/quizzes/notecards, or spin off a subject-specific learning agent. Use when the user asks to 'learn', 'study', 'teach me', 'build a learning package', 'create study material', 'generate quizzes', 'make notecards', or names a certification to prepare for."
-icon: "📖"
+icon: "--"
 trigger: learn study certification learning package notes quizzes notecards study guide teach flashcards
 depends-on: [universal-reasoning-framework]
 inputs:
