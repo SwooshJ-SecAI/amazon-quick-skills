@@ -1,7 +1,7 @@
 ---
 name: compliance-automation
 display_name: Compliance Automation
-icon: "🛡️"
+icon: "--"
 description: "Generates draft compliance policies for SOC 2 Type I/II, ISO 27001, and HIPAA frameworks. Produces evidence collection checklists, control mapping matrices, and gap analysis reports from existing documentation. Use when asked to 'prepare for SOC 2 audit', 'generate compliance policies', 'map controls to framework', 'audit prep', 'compliance gap analysis', or 'ISO 27001 readiness'."
 created_date: "2026-06-22"
 last_updated: "2026-06-22"
