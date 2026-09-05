@@ -1,7 +1,7 @@
 ---
 name: onboarding-orchestrator
 display_name: Onboarding Orchestrator
-icon: "🚀"
+icon: "--"
 description: "Designs and manages end-to-end employee onboarding programs with structured 30/60/90 day plans, buddy assignments, meeting schedules, tool access checklists, and milestone tracking. Adapts plans by role type and seniority. Use when asked to 'set up onboarding', 'create onboarding plan', 'new hire checklist', '30-60-90 plan', 'onboard new team member', or 'prepare for new joiner'."
 created_date: "2026-06-22"
 last_updated: "2026-06-22"
